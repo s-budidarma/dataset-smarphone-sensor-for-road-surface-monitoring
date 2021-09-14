@@ -1,0 +1,27 @@
+column  column-name 
+1       accelerometer x
+2       accelerometer y
+3       accelerometer z 
+4       gyroscope x
+5       gyroscope y
+6       gyroscope z
+7       magnetometer x
+8       magnetometer y
+9       magnetometer z
+10      magnetometer a
+11      magnetometer p
+12      magnetometer r
+13      latitude
+14      longitude
+15      speed
+16      timestep
+17      timestamp
+
+
+
+class   class-name
+0       flat-road
+1       pothole
+2       speedbump
+3       bumpy road
+4       human movement
