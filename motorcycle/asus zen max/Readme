@@ -8,9 +8,9 @@ column  column-name
 7       magnetometer x
 8       magnetometer y
 9       magnetometer z
-10      magnetometer a
-11      magnetometer p
-12      magnetometer r
+10      orientation value a (azimut)
+11      orientation value p (pitch)
+12      orientation value r (roll)
 13      latitude
 14      longitude
 15      speed
